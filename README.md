@@ -1,0 +1,1 @@
+# Vanilla-GAN-MNIST-tensorflow2.0
