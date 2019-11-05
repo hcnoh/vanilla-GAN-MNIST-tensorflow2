@@ -1,6 +1,6 @@
-# Generative Adversarial Network (GAN) Implementation for Generating MNIST Images in TensorFlow 2.0
+# Generative Adversarial Network (GAN) Implementation for Generating MNIST Images in TensorFlow2
 
-This repository is for the TensorFlow 2.0 implementation for vanilla GAN. This repository provides the training module and Jupyter notebook for testing a generation of the trained models. MNIST dataset was used for this repository.
+This repository is for the TensorFlow2 implementation for vanilla GAN. This repository provides the training module and Jupyter notebook for testing a generation of the trained models. MNIST dataset was used for this repository.
 
 ![](/assets/img/README/README_2019-10-17-19-53-53.png)
 
